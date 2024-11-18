@@ -3,7 +3,7 @@
 
 # C setup for vs code
 
-[![Author](https://img.shields.io/badge/Auther---artisticpy)](https://img.shields.io/badge/Auther---Ullas-blu?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Ffile-icon-vectors)
+[![Author](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)](https://img.shields.io/badge/Author-%20Artisticpy---?style=flat&logoColor=%23000000)
 
 Table Of Content
 
